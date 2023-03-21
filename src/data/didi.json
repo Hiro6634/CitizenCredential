@@ -1,0 +1,24 @@
+{
+"some": {
+    "typ":"JWT",
+    "alg":"ES256K-R"
+},
+"some2":{
+    "type":"shareProposal",
+    "claims":{
+        "verifiable":{
+            "Phone":{
+                "essential":true,
+                "iss":[{
+                    "did":"did:ethr:0x5109e37015c915ca2fd585a4105cf54eabca17f8"
+                    }
+                ]
+            }
+        },
+        "user_info":{}
+    },
+    "iss":"did:ethr:0x16d5cd1de6bc2166151083839ee7ad6fda5fb356"
+}
+
+"saraza": `321㸩/(F	F(R+שmiTR9&>wV%g[B=
+"�`}

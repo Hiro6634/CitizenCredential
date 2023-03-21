@@ -4,6 +4,7 @@
   "description": "Ejemplo de Credencial de Ciudadano en el contexto de SSI",
   "main": "index.js",
   "scripts": {
+    "start": "ts-node src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "FlockIT",
@@ -12,6 +13,8 @@
     "typescript": "^5.0.2"
   },
   "dependencies": {
-    "@extrimian/agent": "^0.1.1"
+    "@extrimian/agent": "^0.1.3",
+    "nodemon": "^2.0.21",
+    "ts-node": "^10.9.1"
   }
 }
